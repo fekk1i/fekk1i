@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an rfid/nfc cloning device that can perform key recovery <br>🤝 I’m looking for help with libnfc and MFOC<br>🌱 I’m currently learning cyber security engineering with ALX <br>
+🔭 I’m currently working on a Tkinter-based python app for Wood&More <br>🤝 Currently open for work <br>🌱 I’m currently taking courses on TryHackMe, specifically offensive pentesting<br>
 
 
 ## 🌐 Socials:
