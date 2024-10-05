@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Tkinter-based python app for Wood&More <br>🤝 Currently open for work <br>🌱 I’m currently taking courses on TryHackMe, specifically offensive pentesting<br>
+🔭 I’m currently working on a Tkinter-based python app for Wood&More <br>🤝 Currently working at Cylert <br>🌱 I’m currently taking courses on TryHackMe, specifically offensive pentesting, as well as portswigger tasks<br>
 
 
 ## 🌐 Socials:
